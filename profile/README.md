@@ -24,21 +24,12 @@ We believe that spatial computing is **the future**, and we are dedicated to pla
 
 ## 📚 Our Skillset
 
-We thrive in versatile environments and are always open to adopting new tools and technologies. Here's a glimpse of what we love:
+We thrive in versatile environments and are always open to adopting new tools and technologies.  
+Here's a glimpse of what we love:
 
-<br>**Languages we use:**</br>
-<p>
-   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=swift,py,js,cpp,bash">
-   </a>
-</p>
-
-<br>**Tools we adore:**</br>
-<p>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=visionpro,xcode,git,docker,vscode">
-    </a>
-</p>
+<a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=bash,c,cpp,java,py,swift,docker,git,linux,mysql,vscode">
+</a>
 
 ---
 
