@@ -1,6 +1,6 @@
 ### 👋 Nice to see you here! 👋
 
-Welcome to **LunarisTeam**, where we craft innovative solutions with cutting-edge technology and a shared passion for creativity! 🚀
+Welcome to **LunarisTeam**, where we craft innovative solutions with cutting-edge technology and a shared passion for creativity!
 
 ---
 
